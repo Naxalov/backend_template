@@ -1,7 +1,7 @@
 
 import requests
 
-def multiple_users(number:int)->list:
+def get_nat(nat_list:list)->list:
     '''
     
     '''
